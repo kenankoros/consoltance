@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6de026c4-3914-4116-b956-6b0439eba226" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/images/01.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/02.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/05.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.idea/html.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/Berlin Sans FB Bold.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +54,7 @@
       <recent name="$PROJECT_DIR$/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
@@ -115,6 +112,8 @@
       <workItem from="1679379938761" duration="2000" />
       <workItem from="1679397833466" duration="6376000" />
       <workItem from="1679487177337" duration="1315000" />
+      <workItem from="1679639597776" duration="31000" />
+      <workItem from="1679657475096" duration="1402000" />
     </task>
     <servers />
   </component>
